@@ -1,4 +1,4 @@
-Extra Keyboard Rows
+Gesture input
 ===============
 
 Gesture Input is enabled by default, you can turn it off in setting if you don't use it. 
