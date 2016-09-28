@@ -58,6 +58,7 @@ How-to
    :caption: Text input
    
    dual
+   gesture
    select
    blacklist
    alientext
