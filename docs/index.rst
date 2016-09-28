@@ -48,6 +48,7 @@ How-to
    :caption: Basic usage
    
    hide
+   gesture
    special
    shortcut
    faq
@@ -58,7 +59,6 @@ How-to
    :caption: Text input
    
    dual
-   gesture
    select
    blacklist
    alientext
