@@ -13,9 +13,9 @@ About
 
 Kii Keyboard 2 is free. Our goal is to create the best keyboard app for both Android phones and tablets. 
 
-Get the latest release `HERE`_
+It's currently public alpha, you can download it `HERE`_
 
-.. _HERE: download.html
+.. _HERE: https://play.google.com/apps/testing/com.zl.inputmethod.kiikb2
 
 Features
 ##################
