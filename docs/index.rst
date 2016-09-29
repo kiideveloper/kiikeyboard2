@@ -9,7 +9,7 @@ Kii Keyboard 2
 About
 ##################
 
-**Kii Keyboard 2** is an alternative keyboard on Google Android. It's the sucessor of the original popular Kii Keyboard, love by millions of users. 
+**Kii Keyboard 2** is an alternative keyboard on Google Android. It's the successor of the original popular Kii Keyboard, love by millions of users. 
 
 Kii Keyboard 2 is free. Our goal is to create the best keyboard app for both Android phones and tablets. 
 

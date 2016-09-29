@@ -1,57 +1,26 @@
 Frequently Asked Questions
 ==========================
 
-Is it "safe"? 
+I get a warning about this keyboard collecting my personal data?
 --------------------------------------
 
-Yes and NO but it's a cat and mouse game that is always changing. Any account that you use to log into ANY 3rd party PokemonGO scanner is considered unsafe.
-What you should do: 
+You don't need to worry about that message. It\'s a standard warning message that is shown whenever you enabled a keyboard from the Google play store, including keyboards that were made by Google. Kii Keyboard does NOT collect any personal data.
 
-* Create a 'legit' account that you play with the game client only, don't even spoof your location. If you do, don't `teleport`_ too far and too much.
-* Create a 'bot' account that you can do whatever you want with, but don't get too attached to it because it may be subjected to ban any time. If you use the `sniping` feature in PokiiMap, you can level up this account really quickly and get a full pokedex within 24 hours. 
-* Create a bunch of `scan accounts`_, these accounts will probably be banned from time to time by ban wave depending on how often you scan with them. Do NOT add your legit account as a scan account.
 
-.. _`scan accounts`: getting_started.html#scan-account
-
-.. _teleport:
-
-What is "teleport"?
+Something stops working all of the sudden...
 --------------------------------------
 
-In PokemonGO, there are some operations that will report a location to the server. In the PokemonGO game, this locaiton is always your current location. If you spoof your location, this location will be whatever location you spoofed with the GPS tool. "Spoof location" just means sending the server a location that is not from the real GPS but from a fake source. 
+If something used to work and stop working all of the sudden. You may want to check the following:
 
-These "location reporting" optionerations include operations such as `scanning`_  and `catch/loot`_
+- Have you tried restarting the phone? Sometimes a bug in Android can be resolved by simply restarting your device. 
 
-"teleporting" is when you send the server 1 location and then soon after send another faraway location to the server. This happens, for example, when you catch a pokemon at location A and then catch a pokemon at location B, and location A and location B are far apart. 
+- Did it stop working after you updated the app? If yes, it may be a bug with the update, contact the developer to let him know, it will likely to be fixed in the next update.
 
-The server keeps track of each of the locations that you send and calculate the distance and time between each of these locations. If it detects that within a short period of time, you "teleported" to a different location that is impossible to travel to in real life transportation, it issues a `soft ban`_ to stop you from playing further temporarily.  
+- Did it stop working after you change the settings? If yes, you may want to uninstall/reinstall Kii Keyboard to reset its settings so that it's back to a clean state.
 
-.. _`scanning`: getting_started.html#scanning
-.. _`catch/loot`: catch_loot.html
-
-.. _`soft ban`:
-
-What is "soft ban"?
+Some words cannot be gesture inputted, for example 'nasty'...
 --------------------------------------
 
-In PokemonGO, if you spin a pokestop and get nothing from it, or when you throw a pokeball at a pokemon and it immediately flees, then you have encountered a "soft ban". Soft bans are issued because server detects unnatural `teleport`_ . 
+Many 'offensive' words have very low priority so that the auto-correction algorithm will not suggest such words by accident. For example, you will never want 'duck' to be auto-corrected to 'fuck'. For some unknown reasons, the word 'nasty' was marked as an offensive word in Android's English dictionary (which Kii Keyboard also uses), therefore it's difficult to swipe the word 'nasty' due to its low priority in the dictionary. 
 
-Currently, you can get rid of a soft ban if you exit the game and wait for some time, depending on how far you teleported, the time may range from 15 mins to a few hours. The soft ban will also go away if you keep spinning the same pokestop for somewhere between 20 - 40 times. 
-
-What is "sniping"?
---------------------------------------
-
-`Sniping`_ means a hack that allows you to catch a faraway pokemon without getting `soft ban`_ . The exact method won't be discussed here but what it basically does is that it will spoof your location so that the server thinks you didn't `teleport`_
-
-Only time can tell whether "Sniping" is safer than normal teleporting or extremely unsafe. 
-
-"Sniping" only works with catch but not with loot. That's why in PokiiMap, once you loot once and then loot another pokestop at a faraway location, you get `soft ban`_ quickly.
-
-.. _`Sniping`: catch_loot.html#sniping
-
-It's not "working", what should I do?
---------------------------------------
-
-* Go to account setting screen, use the refresh button on the top right to check your accounts to make sure they are in good shape.
-* Go to settings and make sure you have the latest update
-* Go to settings and make sure the pokemons you want to see is in the "Pokemon to show" list.
+To fix this, you can add the word 'nasty' to the user dictionary, which forces it priority to increase. That way the word 'nasty' will show up when you swipe. Be careful when adding offensive words to the user dictionary for the reasons stated above. ﻿
